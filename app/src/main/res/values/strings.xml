@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="us_dollar">US Dollar</string>
+    <string name="egyptian_pound">Egyptian Pound</string>
+    <string name="by_youssef_muhammed_madboly">By: Youssef Muhammed Madboly</string>
+    <string name="clear">Clear</string>
+    <string name="convert">Convert</string>
+    <string name="pound">Pound</string>
+    <string name="dollar">Dollar</string>
+</resources>
