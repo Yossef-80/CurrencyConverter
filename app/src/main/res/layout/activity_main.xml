@@ -73,12 +73,5 @@
         app:layout_constraintStart_toEndOf="@+id/ConvertButton"
         app:layout_constraintTop_toBottomOf="@+id/PoundTextBox" />
 
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/by_youssef_muhammed_madboly"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="@+id/PoundTextBox"
-        app:layout_constraintTop_toBottomOf="@+id/ConvertButton" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
